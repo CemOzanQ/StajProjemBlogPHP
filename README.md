@@ -1,5 +1,5 @@
 # StajProjemBlogPHP
-<b>Admin Paneli bulunan Blog Sitesi<b>
+<b><strong>Admin Paneli bulunan Blog Sitesi<strong><b>
 Sayfa Adı	Link
 Anasayfa	http://localhost/blogphp/index.php<br>
 Yeni Yazı	http://localhost/blogphp/new.php<br>
